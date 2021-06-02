@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Carolina
+## Oiii! Eu sou a Carolina Martão!
  <div>
   <a href="https://github.com/carolmartao">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=carolmartao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
